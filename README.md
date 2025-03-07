@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Alexis, a French Full Stack Web Developer 👋🏼:
-👨🏼‍💻 web developer on a work-study program at Hydro Extrusion Albi since 2022 <br>👨🏼‍🎓 pursuing a Master’s degree in Digital Solutions and Data Management at the École Supérieure du Numérique du Tarn.
+👨🏼‍💻 web developer on a work-study program at Hydro Extrusion Albi since 2022 <br>👨🏼‍🎓 pursuing a Master’s degree in Digital Solutions and Data Management at the Ecole Supérieure du Numérique du Tarn.
 
 
 # 💻 Tech Stack:
